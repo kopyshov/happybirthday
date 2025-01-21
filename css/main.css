@@ -1,6 +1,6 @@
 @font-face {
-font-family: "Lastochka";
-src: url("../fonts/Lastochka.ttf") format("truetype");
+    font-family: "Lastochka";
+    src: url("../fonts/Lastochka.ttf") format("truetype");
     font-style: normal;
     font-weight: bold;
 }
